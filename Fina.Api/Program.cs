@@ -1,6 +1,7 @@
 using Fina.Api;
 using Fina.Api.Common.Api;
 using Fina.Api.Endpoints;
+using Fina.Core;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.AddConfiguration();
